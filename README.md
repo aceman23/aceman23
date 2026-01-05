@@ -2,7 +2,7 @@
 
 Digital Nomad 🗺️ | UK → Canada → USA California 🌴 | AI Architect & Builder at [Hybrid Ads.ai](https://hybridads.ai/)
 
-**AI Architect** specializing in designing scalable AI systems, agent frameworks, multimodal pipelines, on-device ML, and generative applications. Passionate about open-source AI, voice/video agents, LLMs, and making advanced models accessible + efficient.
+**AI Architect** specializing in designing scalable AI systems, agent frameworks, multimodal pipelines, on-device ML, iOS/Andorid mobile apps, SaaS platforms and generative applications. Passionate about open-source AI, voice/video agents, LLMs, Mobile UI, and making advanced models accessible + efficient for Enterprise (B2B) and Consumer (B2C) clients.
 
 Previously a digital marketer turned full-time AI engineer — with extensive experience delivering production mobile apps and AI solutions for clients worldwide.
 
