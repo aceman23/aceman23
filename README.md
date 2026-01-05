@@ -40,8 +40,8 @@ Beautiful, production-ready landing pages and web components:
 
 - 🌐 **OpenTranslateAI-OpenSourceWebsiteTranslator** [](https://github.com/aceman23/OpenTranslateAI-OpenSourceWebsiteTranslator)  
   A React-based translation widget for websites with smart DOM translation, support for 10+ languages, caching for instant switching, batch processing, and a modern animated UI. Includes a full bilingual demo landing page (built with React, TypeScript, Tailwind CSS, Vite).
-- 📄 **snapscan-landing** [](https://github.com/aceman23/snapscan-landing)  
-  Modern responsive landing page for SnapScanAI – an AI-powered document scanner app featuring Gemini integration, cloud sync, and local LLM chat. Built with Next.js 13, TypeScript, Tailwind CSS, shadcn/ui, and smooth animations.
+- 📄 **SnapScanAI - Your Personal Scanner AI ** [](https://github.com/aceman23/snapscan-landing)  
+SnapScanAI combines the power of Gemini File Search, cloud sync, and a local private LLM to turn your receipts, contracts, notes, and PDFs into a searchable workspace on iOS and Android. An AI-powered document scanner app featuring Gemini integration, cloud sync, and local LLM chat. Built with Native iOS & Android, Next.js 13, TypeScript, Tailwind CSS, shadcn/ui, and smooth animations.
 
 ## Past Projects & Experience
 
