@@ -1,6 +1,6 @@
 # Hi, I'm Anton 👋
 
-Digital Nomad 🗺️ | UK → California 🌴 | AI Architect & Builder at [Hybrid Ads.ai](https://hybridads.ai/)
+Digital Nomad 🗺️ | UK → Canada → USA California 🌴 | AI Architect & Builder at [Hybrid Ads.ai](https://hybridads.ai/)
 
 **AI Architect** specializing in designing scalable AI systems, agent frameworks, multimodal pipelines, on-device ML, and generative applications. Passionate about open-source AI, voice/video agents, LLMs, and making advanced models accessible + efficient.
 
