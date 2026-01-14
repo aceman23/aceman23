@@ -84,8 +84,8 @@ Built for clients worldwide:
 
 ## About Me
 
-- Full-time open-source contributor and AI architect.
-- Love shipping practical, high-performance AI — from edge devices to cloud agents and sleek web experiences.
+- Full-time open-source contributor, AI architect, Technical PM, Mobile iOS/Android & Vibe Coder.
+- Love shipping practical, high-performance AI built Apps — from edge devices to cloud agents and sleek web experiences.
 - Always open to collaborations, issues, PRs, or just chatting AI!
 
 ⭐ Star repos you like  
