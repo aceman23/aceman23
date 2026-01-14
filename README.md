@@ -37,11 +37,29 @@ Active experiments and tools in AI agents, on-device ML, LLM ecosystems, and mod
 ## Recent Web & UI Projects
 
 Beautiful, production-ready landing pages and web components:
-
 - 🌐 **OpenTranslateAI-OpenSourceWebsiteTranslator** [](https://github.com/aceman23/OpenTranslateAI-OpenSourceWebsiteTranslator)  
-  A React-based translation widget for websites with smart DOM translation, support for 10+ languages, caching for instant switching, batch processing, and a modern animated UI. Includes a full bilingual demo landing page (built with React, TypeScript, Tailwind CSS, Vite).
-- 📄 **SnapScanAI - Your Personal Scanner AI ** [](https://github.com/aceman23/snapscan-landing)  
-SnapScanAI combines the power of Gemini File Search, cloud sync, and a local private LLM to turn your receipts, contracts, notes, and PDFs into a searchable workspace on iOS and Android. An AI-powered document scanner app featuring Gemini integration, cloud sync, and local LLM chat. Built with Native iOS & Android, Next.js 13, TypeScript, Tailwind CSS, shadcn/ui, and smooth animations.
+  Open-source React translation widget for websites: smart DOM translation preserving structure & styles, 10+ languages, local caching for instant switching, batch processing, exclusions via data attributes, and beautiful animated UI. Includes bilingual demo landing page (React + TypeScript + Tailwind + Vite). Ideal for privacy-focused, self-hostable multilingual sites.  
+  **Target audience**: Web developers, SaaS teams, content creators, and small-to-medium businesses building or expanding global websites who want a free, customizable, privacy-first alternative to paid translation widgets.  
+  **Market opportunity**: The language translation software market is growing rapidly (~$11B in 2025, projected to $18B+ by 2033 at 6%+ CAGR), with strong demand for website localization tools driven by global e-commerce, cross-border traffic, and the fact that 70%+ of consumers prefer native-language sites.  
+  **Why this niche?** Many businesses still use English-only sites, missing massive international audiences; an open-source, high-performance widget lowers barriers to entry, enables self-hosting for privacy/compliance, and taps into the underserved developer need for lightweight, non-proprietary solutions in a fragmented market.
+
+- 📄 **snapscan-landing** [](https://github.com/aceman23/snapscan-landing)  
+  Modern, responsive landing page for SnapScanAI — an AI-powered document scanner app with Gemini File Search integration, cloud sync, local LLM chat capabilities, smooth animations, typewriter effects, and clean UI/UX. Built with Next.js 13, TypeScript, Tailwind CSS, shadcn/ui.  
+  **Target audience**: Professionals, small businesses, freelancers, and remote workers needing fast, intelligent mobile document scanning with AI features (OCR, search, chat) — especially privacy-conscious users who value local processing.  
+  **Market opportunity**: The document scanner market (including mobile/AI apps) is expanding steadily (~$6–7B in 2025–2026, with 5–7% CAGR through 2030+), driven by digitization, remote work, paperless trends, and AI enhancements for smarter processing.  
+  **Why this niche?** Mobile scanning remains fragmented with many legacy or cloud-only solutions; combining AI (Gemini + local LLMs) + privacy focus addresses growing user concerns about data security while capitalizing on the shift to mobile-first productivity tools in a high-demand, evergreen vertical.
+
+- 🚗 **LimoLogic** [](https://limologic.io/)  
+  AI-powered digital platform offering turnkey, conversion-optimized websites, instant online booking systems, intelligent chatbots, CRM integration, automated follow-ups, and targeted digital marketing (Google/Meta/TikTok Ads) — all tailored for luxury transportation and limo companies.  
+  **Target audience**: Small-to-medium limo/chauffeured service operators in competitive markets who have outdated websites and want more bookings without heavy upfront investment.  
+  **Market opportunity**: Global chauffeured transportation market continues to grow (projected $20B+ by early 2030s, 6–8% CAGR), driven by premium travel, corporate/executive services, and events — yet many operators still use legacy digital presence.  
+  **Why this niche?** High customer lifetime value per booking + fragmented industry with low tech adoption = excellent opportunity for AI-driven solutions to capture significant market share quickly.
+
+- 🤖 **AI Agent Pals** [](https://ai-agent-pals-26.aura.build/)  
+  Mobile app enabling users to create and run fully offline, privacy-first custom AI companions ("Pals") on their device using open-source LLMs (Llama, Mistral, DeepSeek, Qwen, Gemma etc.) with blazing-fast local inference, personalized prompts, knowledge bases, and no data leaving the phone. One-time purchase model with free starter tier.  
+  **Target audience**: Privacy-focused users, developers, and AI enthusiasts who want powerful, subscription-free, local AI agents/companions for productivity, coding, writing, analysis, or personal use.  
+  **Market opportunity**: On-device AI companion/agent market is exploding (consumer AI companions projected $50B+ by 2026 and hundreds of billions by 2030s, 30%+ CAGR), fueled by growing privacy concerns and improving mobile hardware capabilities.  
+  **Why this niche?** Cloud-based AI dominates, but fully local + open-source offers a strong differentiator; huge untapped demand as users seek control, speed, and zero recurring costs.
 
 ## Past Projects & Experience
 
