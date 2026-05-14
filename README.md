@@ -92,4 +92,4 @@ Built for clients worldwide:
 
 ⭐ Star repos you like  
 🔗 Check out [Hybrid Ads.ai](https://hybridads.ai/)  
-🚀 Thanks for stopping by feel free to reach out to me on Linkedin @ https://www.linkedin.com/in/antonansalmar/
+🚀 Thanks for stopping by feel free to reach out to me on: X @antona23 Linkedin @ https://www.linkedin.com/in/antonansalmar/
