@@ -66,9 +66,11 @@ Beautiful, production-ready landing pages and web components:
 ### Mobile Apps Delivered
 Contributed to the development and delivery of these high-profile iOS apps for automotive enthusiasts:
 
-- 🚗 **Car Spotting by MotorTrend** [](https://apps.apple.com/us/app/car-spotting-by-motortrend/id1447901560)  
+- 🤖 AI Agent Pals - https://apps.apple.com/us/app/aiagent-pals/id6757619888
+  Run massive open-source models offline. Create custom "Pals" for coding, writing, or analysis. No data leaves your phone. 
+- 🚗 Car Spotting by MotorTrend** [](https://apps.apple.com/us/app/car-spotting-by-motortrend/id1447901560)  
   Augmented reality car recognition game powered by machine learning – point your camera at real cars to identify, capture, and collect them in a virtual garage with detailed specs.
-- 📱 **MotorTrend App** [](https://apps.apple.com/us/app/motortrend/id1039264027)  
+- 📱 MotorTrend App** [](https://apps.apple.com/us/app/motortrend/id1039264027)  
   Official app for MotorTrend: streaming shows, news, buyer's guides, marketplace, and digital magazine archives (4.8★ from 56K+ ratings).
 
 ### Freelance & Production AI Systems
