@@ -41,9 +41,9 @@ Active experiments and tools in AI agents, generative video, RAG, speech AI, and
 
 Production websites and apps I designed and built:
 
-- 🙏 **1Stayz by Lifeverse** (private) – Agentic AI shepherd care system that helps churches retain first-time visitors. Includes the web app, landing page, and admin panel, built on Next.js 16, React 19, Tailwind CSS 4, and Supabase.
-- 🗄️ **AsterionDB – Enterprise AI architecture for an LLM data-provenance platform, with RAG pipelines, vector search, knowledge graphs, and agentic workflows on Oracle Cloud Infrastructure. I also built the web platform (React, TypeScript, Vite, Supabase), which scores 96 on PageSpeed and has 1.7K+ active users.
-- 🏭 **BC Automation – AI platform for an industrial automation engineering firm that modernizes legacy systems and uses AI to help manufacturers reduce downtime. DeltaV specialist, ISA-99 compliant, and aligned with IEC 62443 (React, AI/ML, Industrial IoT).
+- 🙏 1Stayz by Lifeverse** (private) – Agentic AI shepherd care system that helps churches retain first-time visitors. Includes the web app, landing page, and admin panel, built on Next.js 16, React 19, Tailwind CSS 4, and Supabase.
+- 🗄️ AsterionDB – Enterprise AI architecture for an LLM data-provenance platform, with RAG pipelines, vector search, knowledge graphs, and agentic workflows on Oracle Cloud Infrastructure. I also built the web platform (React, TypeScript, Vite, Supabase), which scores 96 on PageSpeed and has 1.7K+ active users.
+- 🏭 BC Automation – AI platform for an industrial automation engineering firm that modernizes legacy systems and uses AI to help manufacturers reduce downtime. DeltaV specialist, ISA-99 compliant, and aligned with IEC 62443 (React, AI/ML, Industrial IoT).
 - 🤖 **AI Agent Pals – iOS app for fully offline, privacy-first AI companions that run open-source LLMs (Llama, Mistral, DeepSeek, Qwen, Gemma) locally, with custom "Pals" for coding, writing, and analysis. No data leaves your phone (Swift, local LLM inference).
 - 📢 **[hybridadsai_website_2026]** – Marketing site for HybridAds.ai, a "Humans + AI" paid-advertising agency and AI development shop (TypeScript).
 - 🚛 **[seventh-street-garage-website2026]** – Astro 5 site for a towing, recovery, and impound company serving Los Angeles and Orange County since 1978.
