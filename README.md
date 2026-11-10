@@ -24,16 +24,31 @@ Previously a digital marketer turned full-time AI engineer — with extensive ex
 
 ## Current Open-Source Projects
 
-Active experiments and tools in AI agents, on-device ML, LLM ecosystems, and modern web apps:
+Active experiments and tools in AI agents, generative video, RAG, speech AI, and AI-powered marketing:
 
-- 🚀 **agent-runner_xai** – Model-agnostic agent harness with secure tools, workspace management, and multi-provider support.
-- 📓 **open-notebook-ai-app** – Flexible open-source NotebookLM implementation with easy Docker deployment.
-- 🎥 **HunyuanVideoAI-Generator** – Open weights and training framework for large-scale video generation.
-- 🗣️ **pipecat-flows-ai_editor** – Visual editor + framework for structured AI conversations using Pipecat.
-- 🤖 **Persona-AI_Groq** (fork/contrib) – Multi-chat with specialized AI IT personas powered by Groq.
-- 📱 **google_AI_Edge_Android** (fork/gallery) – On-device ML/GenAI showcase for Android.
-- 🧑‍🏫 **llm-course_training** (fork) – Hands-on LLM roadmaps and Colab notebooks.
+- 🎬 **[OpenMontage-video-editor](https://github.com/aceman23/OpenMontage-video-editor)** (fork) – Open-source agentic video production system: 12 pipelines, 52 tools, and 500+ agent skills that turn an AI coding assistant into a video editor.
+- 📈 **[trend-opportunity-radar](https://github.com/aceman23/trend-opportunity-radar)** (fork) – AI agent skill for evidence-backed social trend research, social listening, and competitor/user research.
+- 🎙️ **[Nvidia_Speech](https://github.com/aceman23/Nvidia_Speech)** (fork) – NVIDIA's scalable generative AI framework for LLM, multimodal, and speech AI research.
+- 📣 **[pendpost-socialmedia-automation](https://github.com/aceman23/pendpost-socialmedia-automation)** (fork) – Agent-first social media planner: an AI agent drafts and schedules posts across Instagram, Facebook, LinkedIn, YouTube, and more.
+- 📑 **[PageIndex-RAGAlternative](https://github.com/aceman23/PageIndex-RAGAlternative)** (fork) – Vectorless, reasoning-based RAG that navigates a document index instead of using embeddings.
+- 🧭 **[openmuse-web-mobile](https://github.com/aceman23/openmuse-web-mobile)** (fork) – Personal agent with its own browser, terminal, and files that keeps working on long tasks, built on CopilotKit + AG-UI.
+- 🖱️ **[page-agent](https://github.com/aceman23/page-agent)** (fork) – In-page JavaScript GUI agent that controls web interfaces with natural language.
+- 🎨 **[Open-Generative-AI](https://github.com/aceman23/Open-Generative-AI)** (fork) – Open-source AI image and video generation studio with 200+ models.
+- 📊 **[digital-marketing-pro-ai](https://github.com/aceman23/digital-marketing-pro-ai)** (fork) – AI marketing plugin for agencies: 158 skills, 25 specialist agents, and a 12-part strategy flow.
+- 🚀 **[agent-runner_xai](https://github.com/aceman23/agent-runner_xai)** (fork) – Model-agnostic agent harness with secure tools, workspace management, and multi-provider support.
 
+## Recent Builds & Shipped Projects
+
+Production websites and apps I designed and built:
+
+- 🙏 **1Stayz by Lifeverse** (private) – Agentic AI shepherd care system that helps churches retain first-time visitors. Includes the web app, landing page, and admin panel, built on Next.js 16, React 19, Tailwind CSS 4, and Supabase.
+- 📢 **[hybridadsai_website_2026](https://github.com/aceman23/hybridadsai_website_2026)** – Marketing site for HybridAds.ai, a "Humans + AI" paid-advertising agency and AI development shop (TypeScript).
+- 🚛 **[seventh-street-garage-website2026](https://github.com/aceman23/seventh-street-garage-website2026)** – Astro 5 site for a towing, recovery, and impound company serving Los Angeles and Orange County since 1978.
+- ✅ **[TheGoLiveChecklistforCoders](https://github.com/aceman23/TheGoLiveChecklistforCoders)** – Interactive production-readiness checklists covering accessibility, SEO, legal compliance, and local SEO, for developers, vibe coders, and AI agents. [Live demo](https://thegolivechecklist.com/)
+- 💎 **[lamont-luxe-gems-website-2026](https://github.com/aceman23/lamont-luxe-gems-website-2026)** – Luxury jewellery showcase with a secure admin portal for client inquiries and newsletter subscribers (React 18, TypeScript, Vite).
+- 🌐 **[OpenTranslateAI_OpenSourceWebsiteTranslator_US](https://github.com/aceman23/OpenTranslateAI_OpenSourceWebsiteTranslator_US)** – Free, self-hostable AI website translator widget with multi-model support; a privacy-first Google Translate alternative. [Live demo](https://opentranslateai.com)
+
+  
 ## Recent Web & UI Projects
 
 Beautiful, production-ready landing pages and web components:
